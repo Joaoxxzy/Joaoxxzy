@@ -3,10 +3,10 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/Joaoxxzy/">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Joaoxxzy&theme=midnight-purple&show_icons=true" />
   </a><br>
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a href="https://github.com/Joaoxxzy/">
     <br>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaoxxzy&theme=midnight-purple&layout=compact" />
   </a>
