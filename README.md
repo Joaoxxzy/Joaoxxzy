@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá!! Eu sou o João 🧐</h1>
+  <h1>Olá!! Eu sou o <a href="https://www.linkedin.com/in/joaofbr1/"><i>João</i></a>🧐</h1>
 </div>
 
 <div align="center">
