@@ -4,11 +4,12 @@
 
 <div align="center">
   <a href="https://github.com/Joaoxxzy/">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Joaoxxzy&theme=midnight-purple&show_icons=true" />
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Joaoxxzy&theme=tokyonight&show_icons=true" />
+    <br>
   </a>
   <a href="https://github.com/Joaoxxzy/">
     <br>
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaoxxzy&theme=midnight-purple&layout=compact" />
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaoxxzy&theme=tokyonight&layout=compact" />
   </a>
  </div>
  <br>
