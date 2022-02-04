@@ -2,7 +2,7 @@
   <h2>Olá!! Eu sou o <a href="https://www.linkedin.com/in/joaofbr1/"><i>João</i></a> 🧐</h2>
 </div>
 
-<div align="center">
+<div display="flex" align="center">
   <a href="https://github.com/Joaoxxzy/">
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Joaoxxzy&theme=midnight-purple&show_icons=true" />
   </a>
