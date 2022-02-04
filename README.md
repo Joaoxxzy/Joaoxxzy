@@ -4,10 +4,13 @@
 
 <div align="center">
   <a href="https://github.com/Joaoxxzy/">
-    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=Joaoxxzy&theme=midnight-purple&show_icons=true" />
+    <br>
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Joaoxxzy&theme=midnight-purple&show_icons=true" />
   </a>
   <a href="https://github.com/Joaoxxzy/">
-    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaoxxzy&theme=midnight-purple&layout=compact" />
+    <br>
+    <br>
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaoxxzy&theme=midnight-purple&layout=compact" />
   </a>
  </div>
  <br>
