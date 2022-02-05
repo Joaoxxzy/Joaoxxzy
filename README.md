@@ -19,6 +19,7 @@
   <a href="https://github.com/Joaoxxzy" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
     <img align="right" height="150" width="190" src="https://bonstutoriais.com.br/wp-content/uploads/2018/01/gifs-com-loop-infinito-14.gif"/>
  </div>
+ <br>
  
  ##
  
