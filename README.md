@@ -24,10 +24,8 @@
   
   <br>
   
-  <img align="right" height="130" width="150" src="https://bonstutoriais.com.br/wp-content/uploads/2018/01/gifs-com-loop-infinito-14.gif"/>
- <br>
- <br>
-  
+  <img align="left" height="130" width="150" src="https://bonstutoriais.com.br/wp-content/uploads/2018/01/gifs-com-loop-infinito-14.gif"/>
+ <br> 
  </div>
  
   <br>
@@ -38,7 +36,7 @@
  
  ##
  
-  <div align="left">
+  <div align="center">
  <br>
  <br>
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
