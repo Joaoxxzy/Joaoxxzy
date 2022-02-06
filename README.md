@@ -27,7 +27,7 @@
   ##
   
   <img align="left" height="130" width="150" src="https://bonstutoriais.com.br/wp-content/uploads/2018/01/gifs-com-loop-infinito-14.gif"/>
-  <img align="left" height="130" width="150" src="https://bonstutoriais.com.br/wp-content/uploads/2018/01/gifs-com-loop-infinito-14.gif"/>
+  <img align="left" height="130" width="150" src="https://bonstutoriais.com.br/wp-content/uploads/2018/01/gifs-com-loop-infinito-11.gif"/>
  <br> 
  </div>
  
