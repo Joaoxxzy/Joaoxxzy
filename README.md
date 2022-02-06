@@ -38,7 +38,6 @@
  
   <div align="center">
  <br>
- <br>
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
@@ -51,7 +50,7 @@
   
   ##
 
-<div align="center">
+<div align="center">  
   
   ![Snake animation](https://github.com/Joaoxxzy/Joaoxxzy/blob/output/github-contribution-grid-snake.svg)
   
