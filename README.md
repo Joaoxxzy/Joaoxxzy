@@ -2,14 +2,14 @@
   <h2>Olá!! Eu sou o <a href="https://www.linkedin.com/in/joaofbr1/"><i>João</i></a> 🧐</h2>
 </div>
 
-<img height="500" width="400" align="right" src="https://raw.githubusercontent.com/gist/Joaoxxzy/213af55eadc7aa913b4212f0f22cd7fa/raw/a83c18e976f91168ac2bb53c4abd68d9134bfae3/githubcard.svg"/>
+<img height="500" width="400" align="right" src="https://raw.githubusercontent.com/gist/joaofbr/213af55eadc7aa913b4212f0f22cd7fa/raw/a83c18e976f91168ac2bb53c4abd68d9134bfae3/githubcard.svg"/>
 
 <div align="left">
-  <a href="https://github.com/Joaoxxzy/">
-    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=Joaoxxzy&theme=tokyonight&show_icons=true" />
+  <a href="https://github.com/joaofbr/">
+    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=joaofbr&theme=tokyonight&show_icons=true" />
   </a>
-  <a href="https://github.com/Joaoxxzy/">
-    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaoxxzy&theme=tokyonight&layout=compact" />
+  <a href="https://github.com/joaofbr/">
+    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaofbr&theme=tokyonight&layout=compact" />
   </a>
  </div>
  
@@ -20,7 +20,7 @@
   <a href="https://www.instagram.com/fbr.joao/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joaofbr1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:joaopedrofbr1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/Joaoxxzy" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/joaofbr" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   
   <br> 
   
@@ -55,7 +55,7 @@
 
 <div align="center">  
   
-  ![Snake animation](https://github.com/Joaoxxzy/Joaoxxzy/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/joaofbr/joaofbr/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
