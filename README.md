@@ -2,7 +2,7 @@
   <h2>Olá!! Eu sou o <a href="https://www.linkedin.com/in/joaofbr1/"><i>João</i></a> 🧐</h2>
 </div>
 
-<img height="500" width="400" align="right" src="https://raw.githubusercontent.com/gist/joaofbr/213af55eadc7aa913b4212f0f22cd7fa/raw/a83c18e976f91168ac2bb53c4abd68d9134bfae3/githubcard.svg"/>
+<img height="500" width="400" align="right" src="https://raw.githubusercontent.com/gist/joaofbr/ada1aea75ab1c6d813ea20ff240a6fef/raw/8814fd28ab7e89d3c2788186f1ecf9d75f8ee285/githubcard.svg"/>
 
 <div align="left">
   <a href="https://github.com/joaofbr/">
