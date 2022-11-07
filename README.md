@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Olá!! Eu sou o <a href="https://www.linkedin.com/in/joaofbr1/"><i>João</i></a> 🧐</h2>
+  <h2>Olá!! Eu sou o <a href="https://fbrjoaoportfolio.netlify.app/"><i>João</i></a> 🧐</h2>
 </div>
 
 <img height="500" width="400" align="right" src="https://raw.githubusercontent.com/gist/joaofbr/ada1aea75ab1c6d813ea20ff240a6fef/raw/8814fd28ab7e89d3c2788186f1ecf9d75f8ee285/githubcard.svg"/>
