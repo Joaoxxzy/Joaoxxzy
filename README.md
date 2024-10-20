@@ -9,11 +9,9 @@
     <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=joaofbr&theme=tokyonight&show_icons=true" />
   </a>
   <a href="https://github.com/joaofbr/">
-    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaofbr&theme=tokyonight&layout=compact" />
+    <img height="140" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaofbr&theme=tokyonight&layout=compact" />
   </a>
  </div>
- 
- <br>
  
  <div align="left">
   <a href="https://api.whatsapp.com/send?phone=5524999203432&text=" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
